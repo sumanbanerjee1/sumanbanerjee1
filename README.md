@@ -3,7 +3,7 @@ I am Suman Banerjee, an M.S. scholar under the supervision of [Dr. Mitesh Khapra
 
 ## Education
 
-Degree | University | C.G.P.A | Year
+Degree | University | C.G.P.A / Percent | Year
 ------------ | ------------- | ------------- | -------------
 B.Sc | University of Calcutta | 75% | 2014
 M.Sc | Banaras Hindu University (B.H.U) | 9.43 | 2016 
