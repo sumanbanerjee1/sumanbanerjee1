@@ -16,5 +16,5 @@ CV coming up soon
 
 ## Contact
 
-You can reach me through email at suman[at]cse[dot]iitm[dot]ac[dot]in.
-Twiiter Handle:
+You can reach me through email at suman@cse.iitm.ac.in , 
+Twiiter Handle: [banerjeesuman_](https://twitter.com/banerjeesuman_)
