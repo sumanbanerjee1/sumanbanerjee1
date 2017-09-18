@@ -4,7 +4,7 @@ I am Suman Banerjee, an M.S. scholar under the supervision of [Dr. Mitesh Khapra
 ## Education
 I have completed my **B.Sc (Computer Science Honours)** from **Calcutta University** (Asutosh College) in 2014. Then I completed my **M.Sc (Computer Science)** from the **Institute of Science, Banaras Hindu University (B.H.U)** in 2016. 
 
-## CV
+## Curriculum Vitae
 
 [CV](https://drive.google.com/file/d/0B7QU7N0CVeBHZFdWQnRVTnVtWHc/view?usp=sharing)
 
