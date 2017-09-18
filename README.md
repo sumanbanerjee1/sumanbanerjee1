@@ -8,3 +8,13 @@ Degree | University | C.G.P.A / Percent | Year
 B.Sc | University of Calcutta | 75% | 2014
 M.Sc | Banaras Hindu University (B.H.U) | 9.43 | 2016 
 M.S. | Indian Institute of Technology (IIT), Madras | 8.8 | Ongoing
+
+
+## CV
+
+CV coming up soon
+
+## Contact
+
+You can reach me through email at suman[at]cse[dot]iitm[dot]ac[dot]in.
+Twiiter Handle:
