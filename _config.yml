@@ -31,7 +31,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+theme: Cayman
 
 plugins:
  - jekyll-feed
