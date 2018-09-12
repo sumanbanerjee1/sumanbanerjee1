@@ -1,4 +1,3 @@
-## About Me
 I am currently an M.S. scholar under the supervision of [Dr. Mitesh Khapra](http://www.cse.iitm.ac.in/~miteshk/) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras.](http://www.cse.iitm.ac.in/) I joined the department in July, 2016. My research area broadly spans Natural Language Processing and Deep Learning. Specifically, I am working on Goal-oriented, End-to-End Dialog Systems. I am also associated with a project of [Accenture Labs](https://www.accenture.com/us-en/accenture-technology-labs-index) on a closed-domain dialog system. 
 
 ## Education
@@ -18,9 +17,7 @@ I am currently an M.S. scholar under the supervision of [Dr. Mitesh Khapra](http
 [CV](https://drive.google.com/file/d/1SkTf49CCwidV4a5WAvzxHB3sn_O9--N4/view?usp=sharing)
 
 ## Contact
-
 You can reach me through email : suman at cse dot iitm dot ac dot in
 
 Twitter Handle: [banerjeesuman_](https://twitter.com/banerjeesuman_)
-
 GitHub: [https://github.com/sumanbanerjee1](https://github.com/sumanbanerjee1)
