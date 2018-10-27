@@ -8,7 +8,7 @@ I am currently an M.S. scholar under the supervision of [Dr. Mitesh Khapra](http
  
 
 ## Publications
-* *Towards Exploiting Background Knowledge for Building Conversation Systems*, Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018.
+* *Towards Exploiting Background Knowledge for Building Conversation Systems*, Nikita Moghe, Siddhartha Arora, Suman Banerjee and Mitesh M. Khapra, In the Proceedings of Empirical Methods in Natural Language Processing (EMNLP), 2018. [[pdf]](https://aclanthology.info/papers/D18-1255/d18-1255) 
 
 * *A Dataset for building Code-Mixed Goal Oriented Conversation Systems*, Suman Banerjee, Nikita Moghe, Siddhartha Arora and Mitesh M. Khapra, In the Proceedings of the 27th International Conference on Computational Linguistics, COLING, 2018. [[pdf]](https://aclanthology.coli.uni-saarland.de/papers/C18-1319/c18-1319)   [[code]](https://github.com/sumanbanerjee1/Code-Mixed-Dialog)  [ [BibTeX] ](https://aclanthology.coli.uni-saarland.de/papers/C18-1319/c18-1319.bib)
 
